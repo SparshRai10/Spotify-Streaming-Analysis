@@ -1,0 +1,1 @@
+In this notebook I have analyzed various trends and patterns seen in music streaming platform 'Spotify'. I noticed how the track scores have varied across the years, what is the number of tracks released every year, which are the top artists of the industry, contributions of the artists, explicitness of songs, what type of songs are in demand today and much more!
